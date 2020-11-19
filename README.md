@@ -1,2 +1,5 @@
-# django_poc
-django poc for evaluation
+
+
+# django_mvp repo
+django repo  for hibroady mvp
+
